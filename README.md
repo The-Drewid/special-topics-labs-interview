@@ -32,12 +32,16 @@ Q2: What is the answer?
 Hello!  In the rush that is the start of the term, I really haven't had a chance to chat with many of you.  So would you do me the favor of helping me get to know a bit about you by answering the following?  Please avoid one word answers... I want to learn about you!
 
 Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?
+* _Drew_: I want to become an expert programmer as I see myself as a jack of all trades who's never gained expertise in anything. I especially want to become a UX or video game developer. 
 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
+* _Drew_: I have travelled all over from Toronto to California to New York to Atlanta to Florida to Ireland, Spain, France and Andorra. I would love to go to Japan, Greece and Italy. I am currently planning a trip to Italy in 2020.
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
+* _Drew_: Paul McCartney is my favorite member and my favorite beetles song is Hey Jude. I do love most of their songs and any movies about them like 'Across the Universe' or a new one coming out called 'Yesterday'.
 
 Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem). 
+* _Drew_: I do not have any pets, but I had one while growing up. His name was Toby and he was my dog for 12 years. He was an english setter.
 
 
 ## Submitting Your Work
